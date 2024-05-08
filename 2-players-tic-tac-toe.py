@@ -1,4 +1,4 @@
-#Two Player Tic-Tac-Toe using Python
+#Two Player Tic-Tac-Toe using Python by Ayan Sahoo inspired from Abhisek Sarkar
 
 board = [" " for x in range(9)]
 
